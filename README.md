@@ -18,10 +18,13 @@
 🔗 **LinkedIn:** [(https://www.linkedin.com/in/barnaby-rumbold/)](#)  
 
 
-# 💼 **Experience**
+# 💼 **Professional Experience**
 ### **Data Engineer**
 📊 **Data Engineering**: Creating ETL pipelines on and off the cloud**
 🔄 **Performance**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
+
+### **Data Scientist**
+🤒 **Predictive Analytics**: Created a Logistic Regression App in Python using Scikit-Learn and Streamlit to predict outpatient attendance**
 
 ### **Data Analyst**
 🏥 **Healthcare Insights**: Providing strategic analysis using **SQL, Power BI, Python, and Excel**.  
