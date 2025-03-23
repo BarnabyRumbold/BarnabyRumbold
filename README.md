@@ -28,10 +28,10 @@
 - 📈 **Data Visualization**: Created **interactive dashboards** for NHS executives using **Power BI & SQL**.  
 
 ### **Manager**
-- 🗪 **Experienced & Trained Manager**: - Led a small team, managed tasks and workflow
+- 🗪 **Experienced & Trained Manager**: - Led a small clinical team, provided training and management supervision, and completed the NHS Excellent Manager Programme.
 
 ### **Lecturer** 
-- 🎓 **Teaching & Supervision**: Led lectures and provided clinical and academic supervision
+- 🎓 **Teaching & Supervision**: Led lectures and provided clinical and academic supervision to students. 
 
 ---
 
