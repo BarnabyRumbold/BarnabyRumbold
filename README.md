@@ -2,10 +2,10 @@
 **Data Professional | AI Enthusiast | Data Engineer | Data Analyst | Passionate About Supporting Non-Profits Through Data **  
 <div style="display: flex;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/> <img src="https://raw.githubusercontent.com/BarnabyRumbold/BarnabyRumbold/main/icons8-sql-database-96.png" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="37px"/> </div>
 
+---
 
-📍 **United Kingdom**  
 📧 **Email:** barnabyrumbold@hotmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
+🔗 **LinkedIn:** [(https://www.linkedin.com/in/barnaby-rumbold/)](#)  
 
 ---
 
