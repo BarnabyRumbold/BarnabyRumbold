@@ -1,5 +1,5 @@
 # 🚀 Barnaby Rumbold  
-**Data Engineer | Data Analyst | AI Enthusiast | Advanced Soft Skills | Passionate About Supporting Non-Profits Through Data **  
+## **Data Engineer | Data Analyst | AI Enthusiast | Advanced Soft Skills | Passionate About Supporting Non-Profits Through Data **  
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
   <img src="https://raw.githubusercontent.com/BarnabyRumbold/BarnabyRumbold/main/icons8-sql-database-96.png" width="40px"/>
