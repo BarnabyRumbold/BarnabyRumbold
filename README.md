@@ -1,7 +1,6 @@
 # 🚀 Barnaby Rumbold  
 ## Data Engineer | Data Analyst | AI Enthusiast | Advanced Soft Skills | Passionate About Supporting Non-Profits Through Data 
 
---- 
 
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
@@ -13,12 +12,11 @@
 
 </div>
 
----
+
 
 📧 **Email:** barnabyrumbold@hotmail.com  
 🔗 **LinkedIn:** [(https://www.linkedin.com/in/barnaby-rumbold/)](#)  
 
----
 
 ## 💼 **Experience**
 ### **Data Engineer**
@@ -36,7 +34,7 @@
 ### **Lecturer** 
 - 🎓 **Teaching & Supervision**: Led lectures and provided clinical and academic supervision to students. 
 
----
+
 
 ## 🔧 **Technical Skills**
 ### **Programming**
@@ -74,7 +72,7 @@
   <span style="margin-left: 8px;">**Matplotlib, Plotly, Seaborn, Streamlit for Data Visualization**</span>
 </div>
 
----
+
 
 ## 📚 **Education**
 🎓 **Level 6 Apprenticeship AI Engineer** – CambridgeSpark _(Pending)_  
@@ -83,7 +81,6 @@
 🎓 **MA Sociology** – University of Manchester _(2011, Merit)_  
 🎓 **BA Sociology** – University of York _(2010, 2:1)_  
 
----
 
 ## **Volunteer & Open-Source Projects**
 ### **Medito** _(2022)_
@@ -95,7 +92,7 @@
 ### **Oikos** _(2022)_
 - Geographical analysis for a literacy charity in Mozambique using **Matplotlib & Plotly**.
 
----
+
 ## **Personal Projects**
 
 ## **Data Engineering**
@@ -106,7 +103,6 @@
 ### **[Logistic Regression Streamlit App](https://github.com/BarnabyRumbold/logistic_regression_streamlit_app)** _(2024)_
 - Predicting patient appointment attendance based on demographic data
 
----
 
 ## 📫 **Contact**
 📧 **Email:** barnabyrumbold@hotmail.com  
