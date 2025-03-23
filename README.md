@@ -6,6 +6,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>
   <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-power-bi-144.png" width="40px"/>
   <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-streamlit-144.png" width="40px"/>
+  <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-cloud-computing-64.png" width="40px"/>
+
 </div>
 
 ---
@@ -45,11 +47,18 @@
   <span style="margin-left: 8px;">**SQL (Query Optimization, Stored Procedures, Data Pipelines, Window Functions)**</span>
 </div>  
 
-### **Cloud & Data Engineering**
+### **Cloud**
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20px"/>
   <span style="margin-left: 8px;">**Microsoft Azure (DP-900 Certified, Azure Fundamentals)**</span>
 </div>  
+
+### **ETL & Data Pipelines**
+<div style="display: flex; align-items: center;">
+<img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-cloud-computing-64.png" width="20px"/>
+  <span style="margin-left: 8px;">**ETL Pipelines, Web Scraping, Data Modelling**</span>
+</div>  
+
 
 ### **Data Visualization**
 <div style="display: flex; align-items: center;">
@@ -61,10 +70,6 @@
   <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-streamlit-144.png" width="20px"/>
   <span style="margin-left: 8px;">**Matplotlib, Plotly, Seaborn, Streamlit for Data Visualization**</span>
 </div>
-
-### **ETL & Data Pipelines**
-- 🛠 **Web Scraping**: BeautifulSoup, Requests, Selenium  
-- 🔄 **SQL/Python Data Pipelines**  
 
 ---
 
