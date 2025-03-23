@@ -30,7 +30,7 @@
 ### **Manager**
 - 🗪 **Experienced & Trained Manager**: - Led a small team, managed tasks and workflow
 
-### **Lecturer** – University of Salford _(Nov 2020 - Nov 2021)_
+### **Lecturer** 
 - 🎓 **Teaching & Supervision**: Led lectures and provided clinical and academic supervision
 
 ---
