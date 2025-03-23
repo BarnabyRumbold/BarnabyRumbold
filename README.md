@@ -10,19 +10,25 @@
 ---
 
 ## 💼 **Experience**
-### **Senior Data Analyst** – Kent & Medway Integrated Care Board _(Oct 2024 - Present)_
-- 📊 **Data Engineering & Analytics**: Building dashboards, implementing data science models, and optimizing SQL queries.  
+### **Data Engineer**
+- 📊 **Data Engineering & Analytics**: Building dashboards, implementing data science models, and optimizing SQL queries.
+- 🔄 **Advanced SQL Development**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
+
+### **Data Analyst**
 - 🏥 **Healthcare Insights**: Providing strategic analysis using **SQL, Power BI, Python, and Excel**.  
 - 📢 **Stakeholder Engagement**: Presenting insights clearly and professionally to ensure high-quality product delivery.  
 
 ### **Senior Business Analyst** – Blackpool Teaching Hospitals NHS _(Jan 2023 - Oct 2024)_
-- 🔄 **Advanced SQL Development**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
+
 - 📈 **Data Visualization**: Created **interactive dashboards** for NHS executives using **Power BI & SQL**.  
-- 📌 **Project Management**: Led a small team, managed tasks, and ensured timely data-driven solutions.  
+
+
+## **Manager**
+- 🗪 **Experienced & Trained Manager**: - Led a small team, managed tasks and workflow
 
 ### **Lecturer** – University of Salford _(Nov 2020 - Nov 2021)_
-- 🎓 **Teaching & Supervision**: Led lectures, supervised students, and simplified **complex data concepts**.  
-
+- 🎓 **Teaching & Supervision**: Led lectures and provided clinical and academic supervision
+- 
 ---
 
 ## 🔧 **Technical Skills**
