@@ -78,10 +78,14 @@
 
 ---
 ## 🏆 **Personal Projects**
-### **[Logistic Regression Streamlit App](https://github.com/BarnabyRumbold/logistic_regression_streamlit_app)** _(2024)_
-- Predicting patient appointment attendance based on demographic data
+
+## **Data Engineering**
 ### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2024)_
 - A Microsoft Azure data ingestion and processing pipeline
+
+## **Data Science**
+### **[Logistic Regression Streamlit App](https://github.com/BarnabyRumbold/logistic_regression_streamlit_app)** _(2024)_
+- Predicting patient appointment attendance based on demographic data
 
 ---
 
