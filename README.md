@@ -1,6 +1,6 @@
 # 🚀 Barnaby Rumbold  
 **Data Professional | AI Enthusiast | Data Engineer | Data Analyst | Passionate About Supporting Non-Profits Through Data **  
-<div style="display: flex;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/> <img src="https://raw.githubusercontent.com/BarnabyRumbold/BarnabyRumbold/main/icons8-sql-database-96.png" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/> <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-power-bi-144.png" width="40px"/> </div>
+<div style="display: flex;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/> <img src="https://raw.githubusercontent.com/BarnabyRumbold/BarnabyRumbold/main/icons8-sql-database-96.png" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/> <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-power-bi-144.png" width="40px"/> </div> <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-streamlit-144.png" width="40px"/> </div>
 
 ---
 
@@ -43,14 +43,14 @@
 **Google Cloud Platform (BigQuery, Data Analysis)**  
 
 ### **📊 Data Visualization**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Power BI](<img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-power-bi-144.png" width="40px"/> </div>)  
 **Power BI (Dashboards, DAX, Business Reporting)**  
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+![Excel](<img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-excel-144.png" width="40px"/> </div>)  
 **Excel (Pivot Tables, Advanced Formulas, VBA Macros)**  
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)  
-**Matplotlib, Plotly, Seaborn for Data Visualization**  
+![Python Visualisation](<img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-streamlit-144.png" width="40px"/> </div>)
+**Matplotlib, Plotly, Seaborn, Streamlit for Data Visualization**  
 
 ### **📂 ETL & Data Pipelines**
 - 🛠 **Web Scraping**: BeautifulSoup, Requests, Selenium  
