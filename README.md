@@ -1,7 +1,7 @@
 # 🚀 Barnaby Rumbold  
 **Data Professional | AI Enthusiast | Data Engineer | Data Analyst | Passionate About Supporting Non-Profits Through Data **  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_SQL_Server_Logo.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>  
 
 
