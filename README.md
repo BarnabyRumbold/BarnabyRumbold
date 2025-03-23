@@ -1,9 +1,19 @@
 # 🚀 Barnaby Rumbold  
-**Data Professional | AI Enthusiast | Data Engineering & Analytics | Passionate About Supporting Non-Profits Through Data **  
+**Data Professional | AI Enthusiast | Data Engineer | Data Analyst | Passionate About Supporting Non-Profits Through Data **  
+
+### 💻 Programming
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>  
+**Python (OOP, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit)**  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>  
+**SQL (Query Optimization, Stored Procedures, Data Pipelines, Window Functions)**  
+
+### ☁️ Cloud & Data Engineering
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>  
+**Microsoft Azure (DP-900 Certified, Azure Fundamentals)**
 
 📍 **United Kingdom**  
 📧 **Email:** barnabyrumbold@hotmail.com  
-🔗 **GitHub:** [BarnabyRumbold](https://github.com/BarnabyRumbold)  
 🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
 
 ---
