@@ -17,11 +17,7 @@
 ### **Data Analyst**
 - 🏥 **Healthcare Insights**: Providing strategic analysis using **SQL, Power BI, Python, and Excel**.  
 - 📢 **Stakeholder Engagement**: Presenting insights clearly and professionally to ensure high-quality product delivery.  
-
-### **Senior Business Analyst** – Blackpool Teaching Hospitals NHS _(Jan 2023 - Oct 2024)_
-
 - 📈 **Data Visualization**: Created **interactive dashboards** for NHS executives using **Power BI & SQL**.  
-
 
 ## **Manager**
 - 🗪 **Experienced & Trained Manager**: - Led a small team, managed tasks and workflow
@@ -81,11 +77,10 @@
 - Geographical analysis for a literacy charity in Mozambique using **Matplotlib & Plotly**.
 
 ---
-
 ## 🏆 **Personal Projects**
-### **Logistic Regression Streamlit App**_(2024)_
+### **[Logistic Regression Streamlit App](https://github.com/BarnabyRumbold/logistic_regression_streamlit_app)** _(2024)_
 - Predicting patient appointment attendance based on demographic data
-### Azure Data Ingestion Processing Pipeline _(2024)_
+### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2024)_
 - A Microsoft Azure data ingestion and processing pipeline
 
 ---
