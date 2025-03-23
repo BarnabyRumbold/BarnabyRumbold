@@ -20,8 +20,9 @@
 
 # 💼 **Professional Experience**
 ### **Data Engineer**
-📊 **Data Engineering**: Creating ETL pipelines on and off the cloud**.
-🔄 **Performance**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
+📊 **Data Engineering**: Creating ETL pipelines on and off the cloud.  
+🔄 **Performance**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.
+
 
 ### **Data Scientist**
 🤒 **Predictive Analytics**: Created a Logistic Regression App in Python using Scikit-Learn and Streamlit to predict outpatient attendance**
