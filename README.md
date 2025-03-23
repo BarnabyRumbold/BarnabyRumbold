@@ -96,7 +96,7 @@
 ## **Personal Projects**
 
 ## **Data Engineering**
-### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2024)_
+### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2025)_
 - A Microsoft Azure data ingestion and processing pipeline
 
 ## **Data Science**
