@@ -20,19 +20,19 @@
 
 # 💼 **Experience**
 ### **Data Engineer**
-- 📊 **Data Engineering**: Creating ETL pipelines on and off the cloud**
-- 🔄 **Performance**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
+📊 **Data Engineering**: Creating ETL pipelines on and off the cloud**
+🔄 **Performance**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
 
 ### **Data Analyst**
-- 🏥 **Healthcare Insights**: Providing strategic analysis using **SQL, Power BI, Python, and Excel**.  
-- 📢 **Stakeholder Engagement**: Presenting insights clearly and professionally to ensure high-quality product delivery.  
-- 📈 **Data Visualization**: Created **interactive dashboards** for NHS executives using **Power BI & SQL**.  
+🏥 **Healthcare Insights**: Providing strategic analysis using **SQL, Power BI, Python, and Excel**.  
+📢 **Stakeholder Engagement**: Presenting insights clearly and professionally to ensure high-quality product delivery.  
+📈 **Data Visualization**: Created **interactive dashboards** for NHS executives using **Power BI & SQL**.  
 
 ### **Manager**
-- 🗪 **Experienced & Trained Manager**: - Led a small clinical team, provided training and management supervision, and completed the NHS Excellent Manager Programme.
+🗪 **Experienced & Trained Manager**: - Led a small clinical team, provided training and management supervision, and completed the NHS Excellent Manager Programme.
 
 ### **Lecturer** 
-- 🎓 **Teaching & Supervision**: Led lectures and provided clinical and academic supervision to students. 
+🎓 **Teaching & Supervision**: Led lectures and provided clinical and academic supervision to students. 
 
 
 
@@ -84,24 +84,24 @@
 
 # **Volunteer & Open-Source Projects**
 ### **Medito** _(2022)_
-- Developed an analytics app for mindfulness research using **Python, Streamlit, Matplotlib, NLP**.  
+Developed an analytics app for mindfulness research using **Python, Streamlit, Matplotlib, NLP**.  
 ### **GWED-G** _(2022)_
-- Assisted a Ugandan healthcare provider with **resource allocation analytics**.  
+Assisted a Ugandan healthcare provider with **resource allocation analytics**.  
 ### **CrowdFight** _(2022)_
-- Evaluated performance metrics for a science-promotion non-profit using **Google Cloud & Python**.  
+Evaluated performance metrics for a science-promotion non-profit using **Google Cloud & Python**.  
 ### **Oikos** _(2022)_
-- Geographical analysis for a literacy charity in Mozambique using **Matplotlib & Plotly**.
+Geographical analysis for a literacy charity in Mozambique using **Matplotlib & Plotly**.
 
 
 # **Personal Projects**
 
 ## **Data Engineering**
 ### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2025)_
-- A Microsoft Azure data ingestion and processing pipeline
+A Microsoft Azure data ingestion and processing pipeline
 
 ## **Data Science**
 ### **[Logistic Regression Streamlit App](https://github.com/BarnabyRumbold/logistic_regression_streamlit_app)** _(2024)_
-- Predicting patient appointment attendance based on demographic data
+Predicting patient appointment attendance based on demographic data
 
 
 # 📫 **Contact**
