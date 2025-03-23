@@ -34,7 +34,7 @@
 ---
 
 ## 🔧 **Technical Skills**
-### **💻 Programming**
+### **Programming**
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
   <span style="margin-left: 8px;">**Python (OOP, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit)**</span>
@@ -45,13 +45,13 @@
   <span style="margin-left: 8px;">**SQL (Query Optimization, Stored Procedures, Data Pipelines, Window Functions)**</span>
 </div>  
 
-### **☁️ Cloud & Data Engineering**
+### **Cloud & Data Engineering**
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>
   <span style="margin-left: 8px;">**Microsoft Azure (DP-900 Certified, Azure Fundamentals)**</span>
 </div>  
 
-### **📊 Data Visualization**
+### **Data Visualization**
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-power-bi-144.png" width="40px"/>
   <span style="margin-left: 8px;">**Power BI (Dashboards, DAX, Business Reporting)**</span>
@@ -62,7 +62,7 @@
   <span style="margin-left: 8px;">**Matplotlib, Plotly, Seaborn, Streamlit for Data Visualization**</span>
 </div>
 
-### **📂 ETL & Data Pipelines**
+### **ETL & Data Pipelines**
 - 🛠 **Web Scraping**: BeautifulSoup, Requests, Selenium  
 - 🔄 **SQL/Python Data Pipelines**  
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🏆 **Volunteer & Open-Source Projects**
+## **Volunteer & Open-Source Projects**
 ### **Medito** _(2022)_
 - Developed an analytics app for mindfulness research using **Python, Streamlit, Matplotlib, NLP**.  
 ### **GWED-G** _(2022)_
@@ -87,7 +87,7 @@
 - Geographical analysis for a literacy charity in Mozambique using **Matplotlib & Plotly**.
 
 ---
-## 🏆 **Personal Projects**
+## **Personal Projects**
 
 ## **Data Engineering**
 ### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2024)_
