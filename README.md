@@ -18,7 +18,7 @@
 🔗 **LinkedIn:** [(https://www.linkedin.com/in/barnaby-rumbold/)](#)  
 
 
-## 💼 **Experience**
+# 💼 **Experience**
 ### **Data Engineer**
 - 📊 **Data Engineering**: Creating ETL pipelines on and off the cloud**
 - 🔄 **Performance**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
@@ -36,7 +36,7 @@
 
 
 
-## 🔧 **Technical Skills**
+# 🔧 **Technical Skills**
 ### **Programming**
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/>
@@ -74,7 +74,7 @@
 
 
 
-## 📚 **Education**
+# 📚 **Education**
 🎓 **Level 6 Apprenticeship AI Engineer** – CambridgeSpark _(Pending)_  
 🎓 **MSc Cognitive Behavioural Psychotherapy** – University of Salford _(2018, Distinction)_  
 🎓 **BSc Mental Health Nursing** – University of Manchester _(2015, 2:1)_  
@@ -82,7 +82,7 @@
 🎓 **BA Sociology** – University of York _(2010, 2:1)_  
 
 
-## **Volunteer & Open-Source Projects**
+# **Volunteer & Open-Source Projects**
 ### **Medito** _(2022)_
 - Developed an analytics app for mindfulness research using **Python, Streamlit, Matplotlib, NLP**.  
 ### **GWED-G** _(2022)_
@@ -93,7 +93,7 @@
 - Geographical analysis for a literacy charity in Mozambique using **Matplotlib & Plotly**.
 
 
-## **Personal Projects**
+# **Personal Projects**
 
 ## **Data Engineering**
 ### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2025)_
@@ -104,7 +104,7 @@
 - Predicting patient appointment attendance based on demographic data
 
 
-## 📫 **Contact**
+# 📫 **Contact**
 📧 **Email:** barnabyrumbold@hotmail.com  
 🌍 **GitHub:** [BarnabyRumbold](https://github.com/BarnabyRumbold)  
 💼 **LinkedIn:** [Your LinkedIn Profile](#)  
