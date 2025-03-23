@@ -17,8 +17,8 @@
 
 ## 💼 **Experience**
 ### **Data Engineer**
-- 📊 **Data Engineering & Analytics**: Building dashboards, implementing data science models, and optimizing SQL queries.
-- 🔄 **Advanced SQL Development**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
+- 📊 **Data Engineering**: Creating ETL pipelines on and off the cloud**
+- 🔄 **Performance**: Optimized SQL queries with **CTEs, window functions, and stored procedures**.  
 
 ### **Data Analyst**
 - 🏥 **Healthcare Insights**: Providing strategic analysis using **SQL, Power BI, Python, and Excel**.  
@@ -35,28 +35,32 @@
 
 ## 🔧 **Technical Skills**
 ### **💻 Programming**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>  
-**Python (OOP, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit)**  
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+  <span style="margin-left: 8px;">**Python (OOP, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit)**</span>
+</div>  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>  
-**SQL (Query Optimization, Stored Procedures, Data Pipelines, Window Functions)**  
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/BarnabyRumbold/BarnabyRumbold/main/icons8-sql-database-96.png" width="40px"/>
+  <span style="margin-left: 8px;">**SQL (Query Optimization, Stored Procedures, Data Pipelines, Window Functions)**</span>
+</div>  
 
 ### **☁️ Cloud & Data Engineering**
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-**Microsoft Azure (DP-900 Certified, Azure Fundamentals)**  
-
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-**Google Cloud Platform (BigQuery, Data Analysis)**  
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40px"/>
+  <span style="margin-left: 8px;">**Microsoft Azure (DP-900 Certified, Azure Fundamentals)**</span>
+</div>  
 
 ### **📊 Data Visualization**
-![Power BI](<img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-power-bi-144.png" width="40px"/> </div>)  
-**Power BI (Dashboards, DAX, Business Reporting)**  
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-power-bi-144.png" width="40px"/>
+  <span style="margin-left: 8px;">**Power BI (Dashboards, DAX, Business Reporting)**</span>
+</div>
 
-![Excel](<img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-excel-144.png" width="40px"/> </div>)  
-**Excel (Pivot Tables, Advanced Formulas, VBA Macros)**  
-
-![Python Visualisation](<img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-streamlit-144.png" width="40px"/> </div>)
-**Matplotlib, Plotly, Seaborn, Streamlit for Data Visualization**  
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/BarnabyRumbold/BarnabyRumbold/blob/main/icons8-streamlit-144.png" width="40px"/>
+  <span style="margin-left: 8px;">**Matplotlib, Plotly, Seaborn, Streamlit for Data Visualization**</span>
+</div>
 
 ### **📂 ETL & Data Pipelines**
 - 🛠 **Web Scraping**: BeautifulSoup, Requests, Selenium  
