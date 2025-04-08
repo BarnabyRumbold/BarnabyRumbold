@@ -80,6 +80,7 @@
 
 # 📚 **Education**
 🎓 **Level 6 Apprenticeship AI Engineer** – CambridgeSpark _(Pending)_  
+🎓 **Health Sciences Modelling Associate Programme 6** – University of Exeter _(Pending)_  
 🎓 **MSc Cognitive Behavioural Psychotherapy** – University of Salford _(2018, Distinction)_  
 🎓 **BSc Mental Health Nursing** – University of Manchester _(2015, 2:1)_  
 🎓 **MA Sociology** – University of Manchester _(2011, Merit)_  
