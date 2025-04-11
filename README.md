@@ -102,6 +102,9 @@ Geographical analysis for a literacy charity in Mozambique using **Matplotlib & 
 # **Personal Projects**
 
 ## **Data Engineering**
+### [NHS England Web Scraping Data Engineering Pipeline](https://github.com/BarnabyRumbold/NHS_data_engineering) _(2025)_
+An NHS England Data Engineering project scraping A+E attendance data and ingesting in Microsoft Fabric
+
 ### [Azure Data Ingestion Processing Pipeline](https://github.com/BarnabyRumbold/data-ingestion-processing-pipeline) _(2025)_
 A Microsoft Azure data ingestion and processing pipeline
 
