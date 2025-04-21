@@ -80,15 +80,15 @@
 
 # 📚 **Education**
 🎓 **Level 6 Apprenticeship AI Engineer** – CambridgeSpark _(Pending)_  
-🎓 **Health Sciences Modelling Associate Programme 6** – University of Exeter _(Pending)_  
-🎓 **Data Engineering Boot Camp** – QA _(Pending)_  
+🎓 **Health Sciences Modelling Associate Programme 6** – University of Exeter _(Pass)_  
+🎓 **Data Engineering Boot Camp** – QA _(Pass)_  
 🎓 **MSc Cognitive Behavioural Psychotherapy** – University of Salford _(2018, Distinction)_  
 🎓 **BSc Mental Health Nursing** – University of Manchester _(2015, 2:1)_  
 🎓 **MA Sociology** – University of Manchester _(2011, Merit)_  
 🎓 **BA Sociology** – University of York _(2010, 2:1)_  
 
 
-# **Volunteer & Open-Source Projects**
+# **Volunteer Projects**
 ### **Medito** _(2022)_
 Developed an analytics app for mindfulness research using **Python, Streamlit, Matplotlib, NLP**.  
 ### **GWED-G** _(2022)_
@@ -100,6 +100,10 @@ Geographical analysis for a literacy charity in Mozambique using **Matplotlib & 
 
 
 # **Personal Projects**
+
+## **Data Analytics**
+### [UK Otter Sightings Streamlit App From API Webscrape](https://github.com/BarnabyRumbold/otter_API_app) _(2025)_
+An NHS England Data Engineering project scraping A+E attendance data and ingesting in Microsoft Fabric
 
 ## **Data Engineering**
 ### [NHS England Web Scraping Data Engineering Pipeline](https://github.com/BarnabyRumbold/NHS_data_engineering) _(2025)_
