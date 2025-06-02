@@ -105,6 +105,10 @@ Geographical analysis for a literacy charity in Mozambique using **Matplotlib & 
 ### [UK Otter Sightings Streamlit App From API Webscrape](https://github.com/BarnabyRumbold/otter_API_app) _(2025)_
 An NHS England Data Engineering project scraping A+E attendance data and ingesting in Microsoft Fabric
 
+### [Chronic Kidney Disease England App](https://github.com/BarnabyRumbold/ckd_app) _(2025)_
+An app looking at CKD prevalence in England in the last 3 years using NHS data
+
+
 ## **Data Engineering**
 ### [NHS England Web Scraping Data Engineering Pipeline](https://github.com/BarnabyRumbold/NHS_data_engineering) _(2025)_
 An NHS England Data Engineering project scraping A+E attendance data and ingesting in Microsoft Fabric
